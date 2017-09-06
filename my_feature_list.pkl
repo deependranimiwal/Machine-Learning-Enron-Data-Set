@@ -1,0 +1,16 @@
+(lp0
+S'poi'
+p1
+aS'bonus_per_salary'
+p2
+aS'fraction_from_poi'
+p3
+aS'fraction_emails_with_poi'
+p4
+aS'fraction_to_poi'
+p5
+aS'expenses_per_salary'
+p6
+aS'deferral_per_total'
+p7
+a.

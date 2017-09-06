@@ -1,0 +1,7 @@
+https://discussions.udacity.com/t/using-pipeline-and-pca/336189/4?u=deependranimiwal
+http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.StratifiedShuffleSplit.html
+https://en.wikipedia.org/wiki/Precision_and_recall
+http://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html
+http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+https://stackoverflow.com/questions/40159161/feature-importance-vector-in-decision-trees-in-scikit-learn-along-with-feature-n
